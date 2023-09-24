@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "780645831177",
+    "firebase_url": "https://databasetutorial-c933f-default-rtdb.firebaseio.com",
+    "project_id": "databasetutorial-c933f",
+    "storage_bucket": "databasetutorial-c933f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780645831177:android:c5a400c4ed8bd7f7cf1ed8",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaJRKmFh8OLBdzMsGR-rALrXZPtVTwoNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
